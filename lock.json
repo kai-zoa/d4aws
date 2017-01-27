@@ -1,0 +1,67 @@
+{
+    "memo": "c0fbfec6c3f5d2a4862b0104e07c43762a813fe6ec04c2509107b77bd96fe03b",
+    "projects": [
+        {
+            "name": "github.com/aws/aws-sdk-go",
+            "version": "v1.6.18",
+            "revision": "3f8f870ec9939e32b3372abf74d24e468bcd285d",
+            "packages": [
+                "aws",
+                "aws/session",
+                "service/autoscaling",
+                "service/cloudformation",
+                "service/dynamodb",
+                "service/ec2",
+                "service/ecr"
+            ]
+        },
+        {
+            "name": "github.com/go-ini/ini",
+            "version": "v1.24.0",
+            "revision": "e3c2d47c61e5333f9aa2974695dd94396eb69c75",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "branch": "master",
+            "revision": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/jmespath/go-jmespath",
+            "version": "0.2.2",
+            "revision": "3433f3ea46d9f8019119e7dd41274e112a2359a9",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pkg/errors",
+            "version": "v0.8.0",
+            "revision": "3866ebc348c54054262feae422da428fe6cf147d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "branch": "master",
+            "revision": "c29ece4386f74084680e5e6d02d7b943ae630f63",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "branch": "master",
+            "revision": "a9a634f3de0a7529baded7ad6b0c7467d5c6eca7",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
